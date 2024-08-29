@@ -19,7 +19,7 @@ SelectGitHubActions:
 SelectPublishReleaseFeatures:
 - SelectCitation_flag
 - AddZenodo_flag
-_commit: 0.5.0-363-gf197531
+_commit: 0.5.0-364-g3589a67
 _src_path: /Users/abelsiqueira/projects/work/bestie/python-template
 code_of_conduct_email: abel@abel.com
 copyright_holder: Abel
