@@ -1,0 +1,34 @@
+# Changes here will be overwritten by Copier
+SelectCitation:
+- AddCitationFile_flag
+- AddCFFConvert_flag
+SelectCodeQualityFeatures:
+- SelectGitHubActions_flag
+- AddLinting_flag
+- AddSonarCloud_flag
+- AddEditorConfig_flag
+SelectCommunityFeatures:
+- AddCodeConduct_flag
+- AddContributing_flag
+SelectDocumentationFeatures:
+- AddOnlineDocumentation_flag
+- AddDevDoc_flag
+SelectGitHubActions:
+- AddGitHubActionBuild_flag
+- AddGitHubActionDocumentation_flag
+SelectPublishReleaseFeatures:
+- SelectCitation_flag
+- AddZenodo_flag
+_commit: 0.5.0-363-gf197531
+_src_path: /Users/abelsiqueira/projects/work/bestie/python-template
+code_of_conduct_email: abel@abel.com
+copyright_holder: Abel
+email: abel@abel.com
+full_name: Abel
+github_organization: abel
+keywords: kw1
+license: Apachev2
+package_name: mypkg18
+package_short_description: s
+template_profile: recommended
+version: 0.1.0
